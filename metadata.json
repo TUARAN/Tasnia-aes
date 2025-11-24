@@ -1,0 +1,5 @@
+{
+  "name": "CryptoVisualizer",
+  "description": "An interactive educational tool visualizing the concepts of Symmetric (AES) and Asymmetric (Public-Key) encryption.",
+  "requestFramePermissions": []
+}
